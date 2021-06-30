@@ -1,4 +1,4 @@
-<img src="static/logo.jpg"/>
+
 
 SmartSearch is a reverse image search engine which finds similar images by generating captions and comparing those captions. Powered by Tensorflow and ElasticSearch.
 
